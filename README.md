@@ -4,8 +4,10 @@
 
 Criação de projeto de gerenciamento de controle de despesas e rendas, selecionadas por categorias e datas, fazendo um balanço geral dos valores totais no mês e ano recorrentes.
 
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
