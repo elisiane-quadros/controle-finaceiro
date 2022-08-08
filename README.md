@@ -12,7 +12,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [styled-components](https://styled-components.com/docs/api)
-- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- useState
+- useEffect
 
 
 
