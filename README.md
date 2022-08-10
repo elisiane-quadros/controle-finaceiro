@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 Projeto criado a partir da aula de React.JS da escola B7Web, que consiste em um gerenciamento de controle de despesas e rendas.
-Este projeto me deu a oportunidade de praticar e aprimorar meus conhecimentos em styled-component, useState e useEffect.
+Neste projeto tive a oportunidade de praticar e aprimorar meus conhecimentos em styled-component, useState e useEffect.
 
 
 ## ⚙️ Funcionalidades
