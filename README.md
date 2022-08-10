@@ -1,8 +1,8 @@
 # Sistema de Controle Finaceiro
 
 ## 💻 Sobre o projeto
-Projeto criado a partir da aula de React.JS da escola B7Web, que consiste em um gerenciamento de controle de despesas e rendas.
-Neste projeto tive a oportunidade de praticar e aprimorar meus conhecimentos em styled-component, useState e useEffect.
+Projeto criado a partir da aula de React.JS da escola B7Web, que consiste em um gerenciamento de controle de despesas e rendas. 
+Nesse projeto tive a oportunidade de praticar e aprimorar meus conhecimentos em styled-component, useState e useEffect.
 
 
 ## ⚙️ Funcionalidades
